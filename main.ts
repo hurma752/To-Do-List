@@ -38,17 +38,3 @@ while (index < toDos.length) {
   console.log(`${index + 1}. ${task}`);
   index++;
 };
-
-
-
-
-
-
-
-
-
-
-
-// toDos.push(addTask.todos);
-// condition = addTask.add;
-// console.log(toDos.join("\n"));
