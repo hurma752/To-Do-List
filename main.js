@@ -33,6 +33,3 @@ while (index < toDos.length) {
     index++;
 }
 ;
-// toDos.push(addTask.todos);
-// condition = addTask.add;
-// console.log(toDos.join("\n"));
