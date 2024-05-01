@@ -4,6 +4,7 @@
   "description": "A simple CLI-based to-do list manager to keep track of tasks efficiently.",
   "main": "main.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
